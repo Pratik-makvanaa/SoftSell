@@ -1,12 +1,32 @@
-# React + Vite
+* SoftSell
+SoftSell is a modern, responsive marketing website for a fictional software resale startup built with React.js, Vite, and Bootstrap 5.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* Features Implemented
+Hero Section: Headline, subheading, CTA button ("Get a Quote") 
 
-Currently, two official plugins are available:
+How It Works: Steps (Upload License → Get Valuation → Get Paid)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Why Choose Us: 4 bullet points with business strengths
 
-## Expanding the ESLint configuration
+Customer Testimonials: 2 dummy reviews
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Contact Form: Fields for Name, Email, Company, License Type, and Message with frontend validation
+
+Dark/Light Mode Toggle: Switch themes with a button . button on top left .
+
+Responsive Layout: Mobile-friendly design
+
+Logo and Branding: Custom logo at the top-left
+
+SEO: Meta tags and page title added
+
+* Design Choices
+Tech Stack: React.js + Vite for fast development, Bootstrap for responsive design
+
+UI/UX: Minimal layout, clear typography, intuitive button placements, mobile-first design
+
+* Time Spent
+  2-3 Hours (I ensure that i am improving day by day my skills.)
+
+
+Live URL (hosted site)	- 
