@@ -29,4 +29,4 @@ UI/UX: Minimal layout, clear typography, intuitive button placements, mobile-fir
   2-3 Hours (I ensure that i am improving day by day my skills.)
 
 
-Live URL (hosted site)	- 
+Live URL (hosted site)	- https://soft-sell-nu.vercel.app/
